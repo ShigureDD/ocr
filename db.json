@@ -3,7 +3,9 @@
     {"id":1,"categoryId":"59b0eaee14ea7f1aafb6d0b5","subCategoryId":"59b0ed2cdae1831be084f804","signature":"2-1-2","insurer":"AIA"},
     {"id":2,"categoryId":"59b0eaee14ea7f1aafb6d0b5","subCategoryId":"59b0ed2cdae1831be084f804","signature":"2-1-2","insurer":"AIA"}
   ],
-    "profile": {
-    "name": "typicode"
-  }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ]
 }
