@@ -1,7 +1,7 @@
-{"_id":{"$oid":"5f211c750150f7db328ea84a"},
+[{"_id":{"$oid":"5f211c750150f7db328ea84a"},
   "categoryId":"59b0eaee14ea7f1aafb6d0b5",
   "subCategoryId":"59b0ed2cdae1831be084f804",
   "signature":["1-1-0","2-1-2"],
   "insurer":"AIA",
   "source":""
-}
+}]
